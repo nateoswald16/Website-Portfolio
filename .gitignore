@@ -25,6 +25,7 @@ wheels/
 
 # Flask
 instance/
+!backend/instance/portfolio.db
 .webassets-cache
 
 # IDE
